@@ -1,0 +1,26 @@
+body {
+  background-image: url("https://i.stack.imgur.com/QgTND.jpg");
+  background-size: 100%;
+}
+
+h1 {
+  color: gold;
+}
+
+.container {
+  background-color: #4F0733;
+  width: 54%;
+  text-align: center;
+  padding-bottom: 10rem;
+}
+
+.question {
+  color: gold;
+}
+
+.answers {
+  color: white;
+}
+#timer {
+  color: gold;
+}
